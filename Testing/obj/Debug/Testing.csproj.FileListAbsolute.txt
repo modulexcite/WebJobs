@@ -1,0 +1,1 @@
+D:\Git\WebJobs\Testing\bin\Debug\Testing.exe.config
